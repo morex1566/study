@@ -1,5 +1,6 @@
 ﻿using System;
 using Class;
+using Delegate;
 
 namespace Program
 {
@@ -23,7 +24,11 @@ namespace Program
 
             // cant getarea()
             Console.WriteLine(shape1.TessellationCount());
-            
+
+            // test delegate
+            Calculator calculator = new Calculator();
+            calculator.printValue(calculator.MinXY, 2, 4);
+
             return;
         }
     }

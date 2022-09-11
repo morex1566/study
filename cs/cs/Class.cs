@@ -3,6 +3,12 @@
 
     // getter setter property를 사용한 기본 클래스 구현
     // Q : getter setter 보다 더 좋은 디자인의 캡슐화 표현?
+    /*
+     * A : getter setter 디자인이 나쁜게 아니다.
+     * 모든 private field에 getter setter를 관습적으로 작성하는게 나쁜것이다.
+     * 이것은 객체간의 결합도를 높인다.
+     * 가급적 getter setter로 수정하지 말고 그 객체에게 권한을 넘기는 것이 좋은 방법이다.
+     */
     class MyClass
     {
         public MyClass()
