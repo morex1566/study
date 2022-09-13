@@ -1,0 +1,8 @@
+D:\devs\github\repository\study\designs\cs\design-cs\design-cs\bin\Debug\design-cs.exe.config
+D:\devs\github\repository\study\designs\cs\design-cs\design-cs\bin\Debug\design-cs.exe
+D:\devs\github\repository\study\designs\cs\design-cs\design-cs\bin\Debug\design-cs.pdb
+D:\devs\github\repository\study\designs\cs\design-cs\design-cs\obj\Debug\design-cs.csproj.AssemblyReference.cache
+D:\devs\github\repository\study\designs\cs\design-cs\design-cs\obj\Debug\design-cs.csproj.SuggestedBindingRedirects.cache
+D:\devs\github\repository\study\designs\cs\design-cs\design-cs\obj\Debug\design-cs.csproj.CoreCompileInputs.cache
+D:\devs\github\repository\study\designs\cs\design-cs\design-cs\obj\Debug\design-cs.exe
+D:\devs\github\repository\study\designs\cs\design-cs\design-cs\obj\Debug\design-cs.pdb
