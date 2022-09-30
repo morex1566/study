@@ -1,0 +1,109 @@
+﻿  main.cpp
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(162,1): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(173,1): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(513,1): error C7683: 'void'에 대한 참조를 만들 수 없습니다.
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(185): message : 컴파일되는 클래스 템플릿 인스턴스화 'std::vector<void,std::allocator<void>>'에 대한 참조를 확인하세요.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(514,1): error C7683: 'void'에 대한 참조를 만들 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(667,82): error C7683: 'void'에 대한 참조를 만들 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(667,88): error C7683: 'void'에 대한 참조를 만들 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(688,1): error C7683: 'void'에 대한 참조를 만들 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(816,1): error C7683: 'void'에 대한 참조를 만들 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(829,1): error C7683: 'void'에 대한 참조를 만들 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(912,1): error C7683: 'void'에 대한 참조를 만들 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(916,1): error C7683: 'void'에 대한 참조를 만들 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(955,1): error C7683: 'void'에 대한 참조를 만들 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(959,1): error C7683: 'void'에 대한 참조를 만들 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(963,1): error C7683: 'void'에 대한 참조를 만들 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(1206,1): error C7683: 'void'에 대한 참조를 만들 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(1457,1): error C7683: 'void'에 대한 참조를 만들 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(1744,1): error C7683: 'void'에 대한 참조를 만들 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(1754,1): error C7683: 'void'에 대한 참조를 만들 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(1764,1): error C7683: 'void'에 대한 참조를 만들 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(1773,1): error C7683: 'void'에 대한 참조를 만들 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(1782,1): error C7683: 'void'에 대한 참조를 만들 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(1791,1): error C7683: 'void'에 대한 참조를 만들 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(1800,1): error C7683: 'void'에 대한 참조를 만들 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(1809,1): error C7683: 'void'에 대한 참조를 만들 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(389,1): error C7683: 'void'에 대한 참조를 만들 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xmemory(1368): message : 컴파일되는 클래스 템플릿 인스턴스화 'std::_Vector_val<std::_Simple_types<_Ty>>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ty=void
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(2061): message : 컴파일되는 클래스 템플릿 인스턴스화 'std::_Compressed_pair<std::allocator<void>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ty=void
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(390,1): error C7683: 'void'에 대한 참조를 만들 수 없습니다.
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(241,1): error C2665: 'std::vector<void,std::allocator<void>>::push_back': 2개의 오버로드 중 모든 인수 형식을 변환할 수 있는 오버로드가 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(916,23): message : 'void std::vector<void,std::allocator<void>>::push_back(int &&)'일 수 있습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(912,23): message : 또는       'void std::vector<void,std::allocator<void>>::push_back(int &)'
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(241,21): message : 'void std::vector<void,std::allocator<void>>::push_back(int &)': 인수 1을(를) 'void'에서 'int &'(으)로 변환할 수 없습니다.
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(241,41): message : void 형식의 식을 다른 형식으로 변환할 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(912,23): message : 'std::vector<void,std::allocator<void>>::push_back' 선언을 참조하십시오.
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(241,1): message : 인수 목록 '(void)'을(를) 일치시키는 동안
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(246,1): error C2665: 'std::vector<void,std::allocator<void>>::push_back': 2개의 오버로드 중 모든 인수 형식을 변환할 수 있는 오버로드가 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(916,23): message : 'void std::vector<void,std::allocator<void>>::push_back(int &&)'일 수 있습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(912,23): message : 또는       'void std::vector<void,std::allocator<void>>::push_back(int &)'
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(246,21): message : 'void std::vector<void,std::allocator<void>>::push_back(int &)': 인수 1을(를) 'void'에서 'int &'(으)로 변환할 수 없습니다.
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(246,41): message : void 형식의 식을 다른 형식으로 변환할 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(912,23): message : 'std::vector<void,std::allocator<void>>::push_back' 선언을 참조하십시오.
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(246,1): message : 인수 목록 '(void)'을(를) 일치시키는 동안
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(251,1): error C2665: 'std::vector<void,std::allocator<void>>::push_back': 2개의 오버로드 중 모든 인수 형식을 변환할 수 있는 오버로드가 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(916,23): message : 'void std::vector<void,std::allocator<void>>::push_back(int &&)'일 수 있습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(912,23): message : 또는       'void std::vector<void,std::allocator<void>>::push_back(int &)'
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(251,21): message : 'void std::vector<void,std::allocator<void>>::push_back(int &)': 인수 1을(를) 'void'에서 'int &'(으)로 변환할 수 없습니다.
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(251,41): message : void 형식의 식을 다른 형식으로 변환할 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(912,23): message : 'std::vector<void,std::allocator<void>>::push_back' 선언을 참조하십시오.
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(251,1): message : 인수 목록 '(void)'을(를) 일치시키는 동안
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(256,1): error C2665: 'std::vector<void,std::allocator<void>>::push_back': 2개의 오버로드 중 모든 인수 형식을 변환할 수 있는 오버로드가 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(916,23): message : 'void std::vector<void,std::allocator<void>>::push_back(int &&)'일 수 있습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(912,23): message : 또는       'void std::vector<void,std::allocator<void>>::push_back(int &)'
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(256,21): message : 'void std::vector<void,std::allocator<void>>::push_back(int &)': 인수 1을(를) 'void'에서 'int &'(으)로 변환할 수 없습니다.
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(256,41): message : void 형식의 식을 다른 형식으로 변환할 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(912,23): message : 'std::vector<void,std::allocator<void>>::push_back' 선언을 참조하십시오.
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(256,1): message : 인수 목록 '(void)'을(를) 일치시키는 동안
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(261,1): error C2665: 'std::vector<void,std::allocator<void>>::push_back': 2개의 오버로드 중 모든 인수 형식을 변환할 수 있는 오버로드가 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(916,23): message : 'void std::vector<void,std::allocator<void>>::push_back(int &&)'일 수 있습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(912,23): message : 또는       'void std::vector<void,std::allocator<void>>::push_back(int &)'
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(261,21): message : 'void std::vector<void,std::allocator<void>>::push_back(int &)': 인수 1을(를) 'void'에서 'int &'(으)로 변환할 수 없습니다.
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(261,41): message : void 형식의 식을 다른 형식으로 변환할 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(912,23): message : 'std::vector<void,std::allocator<void>>::push_back' 선언을 참조하십시오.
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(261,1): message : 인수 목록 '(void)'을(를) 일치시키는 동안
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(266,1): error C2665: 'std::vector<void,std::allocator<void>>::push_back': 2개의 오버로드 중 모든 인수 형식을 변환할 수 있는 오버로드가 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(916,23): message : 'void std::vector<void,std::allocator<void>>::push_back(int &&)'일 수 있습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(912,23): message : 또는       'void std::vector<void,std::allocator<void>>::push_back(int &)'
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(266,21): message : 'void std::vector<void,std::allocator<void>>::push_back(int &)': 인수 1을(를) 'void'에서 'int &'(으)로 변환할 수 없습니다.
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(266,41): message : void 형식의 식을 다른 형식으로 변환할 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(912,23): message : 'std::vector<void,std::allocator<void>>::push_back' 선언을 참조하십시오.
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(266,1): message : 인수 목록 '(void)'을(를) 일치시키는 동안
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(271,1): error C2665: 'std::vector<void,std::allocator<void>>::push_back': 2개의 오버로드 중 모든 인수 형식을 변환할 수 있는 오버로드가 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(916,23): message : 'void std::vector<void,std::allocator<void>>::push_back(int &&)'일 수 있습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(912,23): message : 또는       'void std::vector<void,std::allocator<void>>::push_back(int &)'
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(271,21): message : 'void std::vector<void,std::allocator<void>>::push_back(int &)': 인수 1을(를) 'void'에서 'int &'(으)로 변환할 수 없습니다.
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(271,41): message : void 형식의 식을 다른 형식으로 변환할 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(912,23): message : 'std::vector<void,std::allocator<void>>::push_back' 선언을 참조하십시오.
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(271,1): message : 인수 목록 '(void)'을(를) 일치시키는 동안
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(276,1): error C2665: 'std::vector<void,std::allocator<void>>::push_back': 2개의 오버로드 중 모든 인수 형식을 변환할 수 있는 오버로드가 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(916,23): message : 'void std::vector<void,std::allocator<void>>::push_back(int &&)'일 수 있습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(912,23): message : 또는       'void std::vector<void,std::allocator<void>>::push_back(int &)'
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(276,21): message : 'void std::vector<void,std::allocator<void>>::push_back(int &)': 인수 1을(를) 'void'에서 'int &'(으)로 변환할 수 없습니다.
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(276,41): message : void 형식의 식을 다른 형식으로 변환할 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(912,23): message : 'std::vector<void,std::allocator<void>>::push_back' 선언을 참조하십시오.
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(276,1): message : 인수 목록 '(void)'을(를) 일치시키는 동안
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(281,1): error C2665: 'std::vector<void,std::allocator<void>>::push_back': 2개의 오버로드 중 모든 인수 형식을 변환할 수 있는 오버로드가 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(916,23): message : 'void std::vector<void,std::allocator<void>>::push_back(int &&)'일 수 있습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(912,23): message : 또는       'void std::vector<void,std::allocator<void>>::push_back(int &)'
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(281,21): message : 'void std::vector<void,std::allocator<void>>::push_back(int &)': 인수 1을(를) 'void'에서 'int &'(으)로 변환할 수 없습니다.
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(281,41): message : void 형식의 식을 다른 형식으로 변환할 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(912,23): message : 'std::vector<void,std::allocator<void>>::push_back' 선언을 참조하십시오.
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(281,1): message : 인수 목록 '(void)'을(를) 일치시키는 동안
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(286,1): error C2665: 'std::vector<void,std::allocator<void>>::push_back': 2개의 오버로드 중 모든 인수 형식을 변환할 수 있는 오버로드가 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(916,23): message : 'void std::vector<void,std::allocator<void>>::push_back(int &&)'일 수 있습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(912,23): message : 또는       'void std::vector<void,std::allocator<void>>::push_back(int &)'
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(286,21): message : 'void std::vector<void,std::allocator<void>>::push_back(int &)': 인수 1을(를) 'void'에서 'int &'(으)로 변환할 수 없습니다.
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(286,41): message : void 형식의 식을 다른 형식으로 변환할 수 없습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(912,23): message : 'std::vector<void,std::allocator<void>>::push_back' 선언을 참조하십시오.
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(286,1): message : 인수 목록 '(void)'을(를) 일치시키는 동안
+D:\devs\github\repository\study\algorithms\cpp\3425\3425\main.cpp(343,28): warning C4834: 'nodiscard' 특성이 포함된 함수의 반환 값을 버리는 중
