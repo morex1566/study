@@ -30,15 +30,41 @@ public:
 		return section[y];
 	}
 
-	void Deploy()
+	// start main algorithm.
+	int StartProcess()
 	{
+		bool isDoubleRemain = true;
+		bool isDirty = false;
+		int descender = limit;
+		int deployCount = 0;
 
+
+		// add couple section.
+		while (isDoubleRemain && descender)
+		{
+			for (int i = 0; i < size; i++)
+			{
+				if(checkLeft(i-1)){}
+				if(checkRight(i + 1)){}
+				if(checkUp(i)){}
+			}
+
+
+			descender--;
+		}
+
+		// add lonely section.
+		for (int i = 0; i < 2; i++)
+		{
+			for (int j = 0; j < size; j++)
+			{
+				if (section[i][j].second == false) { deployCount++; }
+			}
+		}
+
+		return deployCount;
 	}
 
-	void SetSection(int i, int j, int source)
-	{
-		section[i][j] = std::pair<int, bool>(source, false);
-	}
 
 	// Testing method
 	void TestSection()
@@ -51,6 +77,29 @@ public:
 			}
 			std::cout << std::endl;
 		}
+	}
+
+	void SetSection(int i, int j, int source)
+	{
+		section[i][j] = std::pair<int, bool>(source, false);
+	}
+
+private:
+	bool checkLeft(int index)
+	{
+
+	}
+	bool checkRight(int index)
+	{
+
+	}
+	bool checkUp(int index)
+	{
+
+	}
+	bool checkCoupleRemain()
+	{
+
 	}
 
 private:
@@ -73,7 +122,6 @@ public:
 		return integer;
 	}
 };
-
 class Output
 {
 public:
@@ -160,6 +208,7 @@ private:
 private:
 	std::vector<Test*> test;
 };
+
 
 int main()
 {
