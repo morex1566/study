@@ -1,20 +1,23 @@
+/*
+	파일설명 : 콘솔 출력을 담당하는 유틸리티 클래스
+*/
+
 #pragma once
 
 #include <iostream>
 
 class Output
 {
-public:
+private:
 	Output();
-	Output(const Output&) = delete;
-	~Output();
 
+public:
 	template <typename T1, typename... T2> static void PrintLog(T1 param1_, T2... parame2_);
 	template <typename T> static void PrintLog(T param_);
 };
 
-template<typename T1, typename ...T2>
-inline void Output::PrintLog(T1 param1_, T2 ...parame2_)
+template<typename T1, typename... T2>
+inline void Output::PrintLog(T1 param1_, T2... parame2_)
 {
 	std::cout << param1_;
 	PrintLog(parame2_...);
